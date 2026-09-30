@@ -1,0 +1,450 @@
+=====================================================
+
+# PART I — PROGRAMMING FUNDAMENTALS
+
+## 1. Programming Fundamentals
+- What is a program?
+- Source code
+- Machine code
+- Bytecode
+- Compilation
+- Interpretation
+- JIT compilation
+- Runtime
+- Program execution
+- Statements
+- Expressions
+- Literals
+- Keywords
+- Identifiers
+- Variables
+- Constants
+- Immutable values
+- Mutable values
+- Assignment
+- Initialization
+- Declaration
+- Definition
+- Scope
+- Lifetime
+- Binding
+- Naming conventions
+- Comments
+- Documentation
+- Code formatting
+- Whitespace
+- Syntax
+- Semantics
+- Static semantics
+- Dynamic semantics
+
+## 2. Data Types
+- Integer
+- Floating point
+- Double precision
+- Decimal
+- Boolean
+- Character
+- String
+- Byte
+- Array
+- Object
+- Struct
+- Record
+- Tuple
+- Enum
+- Set
+- Map
+- Null
+- Undefined
+- Optional / Maybe
+- Unit / Void
+- Algebraic data types
+- Sum types
+- Product types
+- Tagged unions
+- Primitive vs reference types
+- Value types
+- Reference types
+
+## 3. Type Systems
+- Static typing
+- Dynamic typing
+- Strong typing
+- Weak typing
+- Nominal typing
+- Structural typing
+- Duck typing
+- Type inference
+- Type annotations
+- Type checking
+- Type conversion
+- Type casting
+- Implicit conversion
+- Explicit conversion
+- Type coercion
+- Generic types
+- Parametric polymorphism
+- Subtyping
+- Union types
+- Intersection types
+- Dependent types
+- Type bounds
+- Variance
+- Covariance
+- Contravariance
+- Invariance
+- Type safety
+- Type erasure
+- Runtime type information
+
+## 4. Operators & Expressions
+- Arithmetic operators
+- Comparison operators
+- Relational operators
+- Logical operators
+- Bitwise operators
+- Assignment operators
+- Increment/decrement
+- Unary operators
+- Ternary operators
+- Null-coalescing operators
+- Optional chaining
+- Spread operators
+- Range operators
+- Operator overloading
+- Precedence
+- Associativity
+- Short-circuit evaluation
+- Lazy evaluation
+- Eager evaluation
+
+# PART II — CONTROL FLOW & FUNCTIONS
+
+## 5. Control Flow
+- if
+- else
+- else-if
+- switch
+- match
+- case
+- Pattern matching
+- for loops
+- while loops
+- do-while loops
+- foreach
+- Infinite loops
+- Nested loops
+- Labeled loops
+- break
+- continue
+- goto
+- Guard clauses
+- Early returns
+- State-based control flow
+- Conditional expressions
+
+## 6. Functions
+- Function declaration
+- Function definition
+- Function invocation
+- Parameters
+- Arguments
+- Return values
+- Default parameters
+- Named parameters
+- Positional parameters
+- Variadic parameters
+- Multiple return values
+- Pass-by-value
+- Pass-by-reference
+- Pass-by-pointer
+- Function scope
+- Local scope
+- Global scope
+- Block scope
+- Nested functions
+- Anonymous functions
+- Lambda expressions
+- Closures
+- First-class functions
+- Higher-order functions
+- Function pointers
+- Callbacks
+- Pure functions
+- Impure functions
+- Function overloading
+- Function overriding
+- Recursion
+- Tail recursion
+- Recursion depth
+- Currying
+- Partial application
+- Memoization
+- Function composition
+
+## 20. Procedural Programming
+- Procedures
+- Functions
+- Sequential execution
+- Mutable state
+- Structured programming
+- Modular programming
+
+# PART IX — ERROR HANDLING & ROBUSTNESS
+
+## 33. Error Handling
+- Exceptions
+- try/catch/finally
+- Custom exceptions
+- Error codes
+- Result types
+- Optional types
+- Assertions
+- Panic/recovery
+- Error propagation
+- Error wrapping
+
+## 34. Robustness
+- Defensive programming
+- Input validation
+- Fail-fast
+- Fail-safe
+- Retry
+- Backoff
+- Timeout
+- Circuit breaker
+- Fallback
+- Graceful degradation
+- Fault isolation
+- Recovery
+
+## 35. Logging & Diagnostics
+- Logging levels
+- Structured logging
+- Error logging
+- Debug logging
+- Tracing
+- Metrics
+- Profiling
+- Crash reporting
+- Diagnostics
+
+# PART XIII — DATABASES
+
+## 48. Relational Databases
+- Tables
+- Rows
+- Columns
+- Primary keys
+- Foreign keys
+- Candidate keys
+- Composite keys
+- Constraints
+- Indexes
+- Views
+- Stored procedures
+- Functions
+- Triggers
+
+## 49. SQL
+- SELECT
+- INSERT
+- UPDATE
+- DELETE
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- JOIN
+- Subqueries
+- CTEs
+- Window functions
+- Aggregation
+- UNION
+- Transactions
+- DDL
+- DML
+- DCL
+- TCL
+
+## 50. Database Design
+- Normalization
+- 1NF
+- 2NF
+- 3NF
+- BCNF
+- Denormalization
+- Entity relationships
+- ER diagrams
+- Data modeling
+- Schema design
+
+## 51. Database Internals
+- Query planner
+- Query optimizer
+- Execution plans
+- Index structures
+- B-tree indexes
+- Hash indexes
+- Transactions
+- ACID
+- Isolation levels
+- Locking
+- MVCC
+- Deadlocks
+- WAL
+- Replication
+- Sharding
+- Partitioning
+
+## 52. NoSQL
+- Document databases
+- Key-value databases
+- Column-family databases
+- Graph databases
+- CAP theorem
+- Eventual consistency
+- Distributed databases
+
+## 53. Data Persistence
+- ORM
+- Query builders
+- Database migrations
+- Connection pools
+- Caching
+- Read-through cache
+- Write-through cache
+- Write-back cache
+- Cache invalidation
+
+# PART XV — WEB PROGRAMMING
+
+## 58. Web Fundamentals
+- Browser
+- Server
+- Client-server model
+- Request/response
+- HTTP methods
+- HTTP headers
+- Status codes
+- Cookies
+- Sessions
+- Cache
+- Local storage
+- Session storage
+
+## 59. APIs
+- REST
+- RESTful resources
+- JSON
+- XML
+- GraphQL
+- gRPC
+- RPC
+- Webhooks
+- API versioning
+- Pagination
+- Filtering
+- Sorting
+- Rate limiting
+
+## 60. Web Authentication
+- Sessions
+- JWT
+- OAuth
+- OAuth 2.0
+- OpenID Connect
+- API keys
+- Access tokens
+- Refresh tokens
+- SSO
+- MFA
+
+## 61. Frontend Programming
+- HTML
+- CSS
+- JavaScript
+- DOM
+- Events
+- Browser APIs
+- Components
+- State management
+- Routing
+- Forms
+- Accessibility
+- Responsive design
+- Progressive Web Apps
+- Web performance
+
+# PART XX — VERSION CONTROL & COLLABORATION
+
+## 76. Git
+- Repository
+- Commit
+- Branch
+- Tag
+- Clone
+- Fetch
+- Pull
+- Push
+- Merge
+- Rebase
+- Cherry-pick
+- Revert
+- Reset
+- Stash
+- Bisect
+
+## 77. Team Development
+- Pull requests
+- Code review
+- Merge conflicts
+- Branch strategies
+- GitFlow
+- Trunk-based development
+- Release branches
+- Semantic versioning
+- Changelog management
+
+# PART XXIX — GRAPHICS & GAME PROGRAMMING
+
+## 103. Computer Graphics
+- Pixels
+- Color models
+- Coordinates
+- Vectors
+- Matrices
+- Transformations
+- Translation
+- Rotation
+- Scaling
+- Projection
+- Camera systems
+
+## 104. Rendering
+- Rasterization
+- Ray tracing
+- Path tracing
+- Shaders
+- Textures
+- Lighting
+- Materials
+- Shadows
+- Anti-aliasing
+- GPU pipelines
+
+## 105. Game Programming
+- Game loops
+- Input systems
+- Physics
+- Collision detection
+- Animation systems
+- Scene graphs
+- Entity-component systems
+- AI
+- Pathfinding
+- Networking
+- Asset pipelines
+
+=====================================================

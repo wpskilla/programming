@@ -1,0 +1,2530 @@
+=====================================================
+
+# PART X — TESTING & QUALITY
+
+## 36. Testing
+- Unit testing
+- Integration testing
+- System testing
+- End-to-end testing
+- Regression testing
+- Smoke testing
+- Sanity testing
+- Acceptance testing
+- Compatibility testing
+
+## 37. Advanced Testing
+- TDD
+- BDD
+- Property-based testing
+- Fuzz testing
+- Mutation testing
+- Contract testing
+- Snapshot testing
+- Golden testing
+- Exploratory testing
+
+## 38. Test Doubles
+- Mock
+- Stub
+- Spy
+- Fake
+- Fixture
+- Dependency substitution
+
+## 39. Quality Metrics
+- Code coverage
+- Branch coverage
+- Mutation score
+- Static analysis
+- Linting
+- Complexity metrics
+- Maintainability
+- Reliability
+
+---
+
+# PART XXXIV — SOFTWARE ENGINEERING PROCESS
+
+## 117. Development Methodologies
+- Waterfall
+- Agile
+- Scrum
+- Kanban
+- Extreme Programming
+- Iterative development
+- Incremental development
+
+## 118. Requirements
+- Functional requirements
+- Non-functional requirements
+- User stories
+- Use cases
+- Acceptance criteria
+- Domain requirements
+- Constraints
+
+## 119. Maintenance
+- Refactoring
+- Technical debt
+- Legacy systems
+- Backward compatibility
+- Deprecation
+- Migration
+- Code modernization
+
+## 120. Documentation
+- Code comments
+- API documentation
+- Architecture documentation
+- ADRs
+- README files
+- Tutorials
+- Runbooks
+- Specifications
+
+---
+
+# PART XXXV — PROFESSIONAL SOFTWARE PRACTICES
+
+## 121. Code Quality
+- Readability
+- Maintainability
+- Simplicity
+- Consistency
+- Naming
+- Modularity
+- Reusability
+- Extensibility
+
+## 122. Code Review
+- Review principles
+- Review checklist
+- Automated review
+- Human review
+- Security review
+- Architecture review
+
+## 123. Team Engineering
+- Collaboration
+- Pair programming
+- Mob programming
+- Knowledge sharing
+- Technical leadership
+- Engineering standards
+
+---
+
+# PART XIV — NETWORKING
+
+## 54. Networking Fundamentals
+- Network models
+- OSI model
+- TCP/IP model
+- IP addresses
+- IPv4
+- IPv6
+- MAC addresses
+- Ports
+- Packets
+- Frames
+- Routing
+- Switching
+- Subnets
+- CIDR
+- NAT
+
+## 55. Network Protocols
+- Ethernet
+- ARP
+- ICMP
+- TCP
+- UDP
+- QUIC
+- HTTP
+- HTTPS
+- TLS
+- FTP
+- SMTP
+- IMAP
+- SSH
+
+## 56. Internet Infrastructure
+- DNS
+- DHCP
+- CDN
+- Reverse proxy
+- Forward proxy
+- Load balancer
+- Firewalls
+- Gateways
+
+## 57. Network Programming
+- Sockets
+- TCP sockets
+- UDP sockets
+- Client-server architecture
+- Connection management
+- Streaming
+- WebSockets
+- Server-sent events
+
+---
+
+# PART XVI — OPERATING SYSTEMS
+
+## 62. OS Fundamentals
+- Kernel
+- User space
+- Kernel space
+- Processes
+- Threads
+- Scheduling
+- Context switching
+- System calls
+- Interrupts
+- Signals
+
+## 63. Process Management
+- Process lifecycle
+- Process states
+- Process creation
+- Process termination
+- Scheduling algorithms
+- IPC
+- Pipes
+- Shared memory
+- Message queues
+- Signals
+
+## 64. Memory & Storage
+- Virtual memory
+- Paging
+- Page tables
+- TLB
+- Memory protection
+- File systems
+- Files
+- Directories
+- Permissions
+- File descriptors
+- Disk management
+
+## 65. OS-Level Programming
+- Shell programming
+- Command-line tools
+- Environment variables
+- Processes
+- Signals
+- System calls
+- Daemons/services
+- Kernel interfaces
+
+---
+
+# PART XVII — COMPUTER ARCHITECTURE
+
+## 66. CPU Concepts
+- CPU
+- ALU
+- Control unit
+- Registers
+- Instruction cycle
+- Machine instructions
+- Instruction sets
+- ISA
+- x86
+- ARM
+- RISC
+- CISC
+
+## 67. CPU Performance
+- Pipelines
+- Branch prediction
+- Speculative execution
+- Superscalar execution
+- Out-of-order execution
+- CPU cache
+- L1/L2/L3 cache
+- Cache locality
+- SIMD
+- Multicore CPUs
+
+## 68. Digital & Low-Level Concepts
+- Binary
+- Hexadecimal
+- Bits
+- Bytes
+- Bit operations
+- Memory buses
+- Interrupts
+- DMA
+- Endianness
+- Assembly language
+
+---
+
+# PART XVIII — COMPILERS & LANGUAGE IMPLEMENTATION
+
+## 69. Compiler Concepts
+- Compiler
+- Interpreter
+- Assembler
+- Linker
+- Loader
+- Frontend
+- Backend
+- Intermediate representation
+- Optimization
+- Code generation
+
+## 70. Language Processing
+- Lexing
+- Tokens
+- Parsing
+- Grammars
+- Context-free grammars
+- Parser trees
+- AST
+- Semantic analysis
+- Symbol tables
+- Type checking
+
+## 71. Compiler Optimization
+- Constant folding
+- Dead-code elimination
+- Inlining
+- Loop optimization
+- Common subexpression elimination
+- Register allocation
+- SSA
+- JIT compilation
+
+## 72. Language Runtime
+- Runtime systems
+- Virtual machines
+- Bytecode
+- Garbage collectors
+- Reflection
+- Dynamic dispatch
+- ABI
+- Calling conventions
+- FFI
+
+---
+
+# PART XIX — PROGRAMMING LANGUAGE THEORY
+
+## 73. Language Concepts
+- Syntax
+- Semantics
+- Grammar
+- Operational semantics
+- Denotational semantics
+- Type systems
+- Evaluation strategies
+- Scoping models
+- Binding
+- Dispatch
+
+## 74. Advanced Type Theory
+- Generics
+- Parametric polymorphism
+- Ad-hoc polymorphism
+- Subtype polymorphism
+- Higher-kinded types
+- Algebraic data types
+- Dependent types
+- Type classes
+- Traits
+- Existential types
+
+## 75. Metaprogramming
+- Macros
+- Reflection
+- Code generation
+- Templates
+- Compile-time programming
+- Runtime code generation
+- Annotation processing
+
+---
+
+# PART XXI — SECURITY
+
+## 78. Security Fundamentals
+- CIA triad
+- Authentication
+- Authorization
+- Accounting
+- Least privilege
+- Defense in depth
+- Zero trust
+- Threat modeling
+- Attack surface
+- Security boundaries
+
+## 79. Application Security
+- Input validation
+- Output encoding
+- SQL injection
+- XSS
+- CSRF
+- SSRF
+- Command injection
+- Path traversal
+- File upload vulnerabilities
+- Session attacks
+- Authentication vulnerabilities
+- Authorization vulnerabilities
+
+## 80. Cryptography
+- Encryption
+- Decryption
+- Symmetric encryption
+- Asymmetric encryption
+- Hashing
+- Salting
+- HMAC
+- Digital signatures
+- Certificates
+- Public/private keys
+- Key exchange
+- PKI
+- TLS
+
+## 81. Secure Development
+- Secure coding
+- Secrets management
+- Password hashing
+- Dependency security
+- Security scanning
+- SAST
+- DAST
+- Dependency scanning
+- Vulnerability management
+- Secure configuration
+
+---
+
+# PART XXII — DISTRIBUTED SYSTEMS
+
+## 82. Distributed System Fundamentals
+- Distributed nodes
+- Network partitions
+- Latency
+- Partial failure
+- Replication
+- Consistency
+- Availability
+- Fault tolerance
+
+## 83. Distributed Consistency
+- Strong consistency
+- Eventual consistency
+- Causal consistency
+- Linearizability
+- Sequential consistency
+- CAP theorem
+- PACELC
+
+## 84. Distributed Coordination
+- Leader election
+- Consensus
+- Raft
+- Paxos
+- Distributed locks
+- Quorum
+- Gossip protocols
+
+## 85. Distributed Architecture
+- Service discovery
+- Configuration management
+- Distributed tracing
+- Message brokers
+- Event streams
+- Queues
+- Pub/sub
+- Idempotency
+- Exactly-once vs at-least-once delivery
+
+---
+
+# PART XXIII — SYSTEM DESIGN
+
+## 86. Scalability
+- Vertical scaling
+- Horizontal scaling
+- Auto-scaling
+- Load balancing
+- Stateless architecture
+- Stateful architecture
+- Database scaling
+- Read replicas
+- Sharding
+- Partitioning
+
+## 87. Performance
+- Latency
+- Throughput
+- QPS
+- Bottlenecks
+- Profiling
+- Benchmarking
+- Caching
+- CDN
+- Compression
+- Connection pooling
+- Batching
+
+## 88. Reliability
+- Availability
+- SLAs
+- SLOs
+- SLIs
+- Fault tolerance
+- Redundancy
+- Failover
+- Disaster recovery
+- Backup
+- Recovery point objective
+- Recovery time objective
+
+## 89. Messaging
+- Message queues
+- Kafka
+- RabbitMQ
+- Pub/sub
+- Event buses
+- Dead-letter queues
+- Retry queues
+- Event ordering
+- Delivery guarantees
+
+---
+
+# PART XXIV — SOFTWARE BUILD & DEPENDENCY MANAGEMENT
+
+## 90. Build Systems
+- Compilation
+- Linking
+- Build graphs
+- Incremental builds
+- Dependency resolution
+- Build caching
+- Reproducible builds
+- Cross-compilation
+
+## 91. Package Management
+- Packages
+- Libraries
+- Modules
+- Dependencies
+- Dependency trees
+- Lock files
+- Semantic versioning
+- Dependency conflicts
+- Package registries
+- Private packages
+
+---
+
+# PART XXV — CI/CD & DEVOPS
+
+## 92. Continuous Integration
+- Automated builds
+- Automated tests
+- Code quality checks
+- Static analysis
+- Artifact generation
+- Build pipelines
+
+## 93. Continuous Delivery
+- Deployment pipelines
+- Release automation
+- Environment promotion
+- Staging
+- Production
+- Rollbacks
+- Feature flags
+
+## 94. Deployment Strategies
+- Blue/green deployment
+- Canary deployment
+- Rolling deployment
+- Shadow deployment
+- A/B deployment
+
+## 95. Infrastructure
+- Infrastructure as Code
+- Terraform
+- Configuration management
+- Containers
+- Docker
+- Container registries
+- Kubernetes
+- Service meshes
+- Orchestration
+
+---
+
+# PART XXVI — CLOUD COMPUTING
+
+## 96. Cloud Fundamentals
+- IaaS
+- PaaS
+- SaaS
+- FaaS
+- Public cloud
+- Private cloud
+- Hybrid cloud
+- Multi-cloud
+
+## 97. Cloud Architecture
+- Virtual machines
+- Containers
+- Serverless
+- Object storage
+- Block storage
+- Databases
+- Queues
+- Functions
+- Load balancers
+- CDN
+- API gateways
+
+## 98. Cloud Operations
+- Autoscaling
+- Monitoring
+- Logging
+- IAM
+- Secrets
+- Cost management
+- Disaster recovery
+- High availability
+
+---
+
+# PART XXVII — OBSERVABILITY
+
+## 99. Monitoring
+- Metrics
+- Logs
+- Traces
+- Dashboards
+- Alerts
+- Health checks
+- Uptime monitoring
+
+## 100. Distributed Observability
+- Distributed tracing
+- Trace IDs
+- Span IDs
+- Correlation IDs
+- Service maps
+- Dependency graphs
+- Error budgets
+
+---
+
+# PART XXVIII — EMBEDDED & REAL-TIME PROGRAMMING
+
+## 101. Embedded Systems
+- Microcontrollers
+- Microprocessors
+- GPIO
+- UART
+- SPI
+- I2C
+- CAN
+- ADC
+- DAC
+- PWM
+- Interrupts
+- Timers
+- Sensors
+- Actuators
+
+## 102. Real-Time Systems
+- Real-time constraints
+- Hard real-time
+- Soft real-time
+- Scheduling
+- Interrupt latency
+- Determinism
+- RTOS
+- Priority scheduling
+
+---
+
+# PART III — DATA STRUCTURES
+
+## 7. Linear Data Structures
+- Arrays
+- Dynamic arrays
+- Strings
+- Linked lists
+- Singly linked lists
+- Doubly linked lists
+- Circular linked lists
+- Stacks
+- Queues
+- Circular queues
+- Deques
+- Priority queues
+
+## 8. Hash-Based Structures
+- Hash tables
+- Hash maps
+- Dictionaries
+- Hash sets
+- Hash functions
+- Collision handling
+- Chaining
+- Open addressing
+- Linear probing
+- Quadratic probing
+- Double hashing
+- Load factor
+
+## 9. Trees
+- General trees
+- Binary trees
+- Binary search trees
+- AVL trees
+- Red-black trees
+- Heaps
+- Min-heaps
+- Max-heaps
+- B-trees
+- B+ trees
+- Tries
+- Radix trees
+- Segment trees
+- Fenwick trees
+- Expression trees
+- Syntax trees
+- Abstract syntax trees
+
+## 10. Graphs
+- Directed graphs
+- Undirected graphs
+- Weighted graphs
+- Unweighted graphs
+- Cyclic graphs
+- Acyclic graphs
+- DAGs
+- Adjacency matrix
+- Adjacency list
+- Edge lists
+- Graph representations
+- Connected components
+- Strongly connected components
+- Bipartite graphs
+
+## 11. Specialized Data Structures
+- Tuples
+- Records
+- Structs
+- Enums
+- Sets
+- Disjoint sets
+- Union-Find
+- Skip lists
+- Bloom filters
+- Bitsets
+- Bitmaps
+- Spatial trees
+- Quadtrees
+- Octrees
+- Interval trees
+- Prefix trees
+
+---
+
+# PART IV — ALGORITHMS
+
+## 12. Searching Algorithms
+- Linear search
+- Binary search
+- Ternary search
+- Interpolation search
+- Jump search
+- Exponential search
+- Hash-based lookup
+
+## 13. Sorting Algorithms
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Heap sort
+- Shell sort
+- Counting sort
+- Radix sort
+- Bucket sort
+- TimSort
+- External sorting
+- Stable sorting
+- In-place sorting
+
+## 14. Algorithmic Techniques
+- Brute force
+- Divide and conquer
+- Greedy algorithms
+- Dynamic programming
+- Memoization
+- Tabulation
+- Backtracking
+- Branch and bound
+- Recursion
+- Iteration
+- Randomized algorithms
+- Probabilistic algorithms
+- Incremental algorithms
+- Online algorithms
+- Approximation algorithms
+
+## 15. Graph Algorithms
+- BFS
+- DFS
+- Dijkstra
+- Bellman-Ford
+- Floyd-Warshall
+- A*
+- Prim
+- Kruskal
+- Topological sorting
+- Cycle detection
+- Shortest path
+- Minimum spanning tree
+- Maximum flow
+- Minimum cut
+- Strongly connected components
+- Bipartite matching
+
+## 16. String Algorithms
+- Pattern matching
+- KMP
+- Rabin-Karp
+- Z algorithm
+- Boyer-Moore
+- Trie searching
+- Prefix matching
+- Suffix arrays
+- Suffix trees
+- Edit distance
+- Levenshtein distance
+
+## 17. Algorithmic Patterns
+- Two pointers
+- Sliding window
+- Fast/slow pointers
+- Prefix sums
+- Difference arrays
+- Monotonic stack
+- Monotonic queue
+- Binary search on answer
+- Bit manipulation
+- Coordinate compression
+- Sweep line
+- Meet in the middle
+- Divide and conquer optimization
+
+---
+
+# PART V — COMPLEXITY & COMPUTATIONAL THEORY
+
+## 18. Complexity Analysis
+- Big-O
+- Big-Theta
+- Big-Omega
+- Time complexity
+- Space complexity
+- Best case
+- Worst case
+- Average case
+- Amortized analysis
+- Constant time
+- Logarithmic time
+- Linear time
+- Linearithmic time
+- Polynomial time
+- Exponential time
+- Factorial time
+- Time-space tradeoffs
+
+## 19. Computational Complexity
+- P
+- NP
+- NP-complete
+- NP-hard
+- PSPACE
+- Decidability
+- Undecidability
+- Halting problem
+- Computability
+- Turing machines
+- Complexity classes
+
+---
+
+# PART VI — PROGRAMMING PARADIGMS
+
+## 21. Object-Oriented Programming
+- Classes
+- Objects
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- Interfaces
+- Abstract classes
+- Constructors
+- Destructors
+- Access modifiers
+- Static members
+- Instance members
+- Method overloading
+- Method overriding
+- Composition
+- Aggregation
+- Association
+- Dependency
+- Mixins
+- Traits
+- SOLID
+- Object lifecycle
+
+## 22. Functional Programming
+- Pure functions
+- Immutability
+- Referential transparency
+- First-class functions
+- Higher-order functions
+- Map
+- Filter
+- Reduce
+- Fold
+- Function composition
+- Currying
+- Partial application
+- Recursion
+- Lazy evaluation
+- Monads
+- Functors
+- Applicatives
+- Algebraic data types
+- Pattern matching
+- Side-effect management
+
+## 23. Declarative Programming
+- Declarative syntax
+- Logic programming
+- Constraint programming
+- SQL
+- Rule-based programming
+- Configuration languages
+
+## 24. Other Paradigms
+- Event-driven programming
+- Reactive programming
+- Concurrent programming
+- Parallel programming
+- Aspect-oriented programming
+- Generic programming
+- Metaprogramming
+- Prototype-based programming
+- Data-oriented programming
+- Actor model
+- Component-based programming
+- Domain-specific programming
+
+---
+
+# PART VII — MEMORY & RESOURCE MANAGEMENT
+
+## 25. Memory Fundamentals
+- RAM
+- Virtual memory
+- Stack
+- Heap
+- Static memory
+- Global memory
+- Memory addresses
+- Pointers
+- References
+- Dereferencing
+- Pointer arithmetic
+
+## 26. Memory Management
+- Manual allocation
+- malloc/free
+- new/delete
+- Garbage collection
+- Reference counting
+- Mark-and-sweep
+- Generational GC
+- Memory leaks
+- Dangling pointers
+- Wild pointers
+- Double free
+- Use-after-free
+- Memory fragmentation
+- Buffer overflow
+- Smart pointers
+- Ownership
+- Borrowing
+- RAII
+- Move semantics
+- Copy semantics
+
+## 27. Resource Management
+- Files
+- Sockets
+- Database connections
+- Locks
+- Handles
+- Resource acquisition
+- Resource release
+- Context managers
+- Deterministic cleanup
+
+---
+
+# PART VIII — CONCURRENCY & PARALLELISM
+
+## 28. Concurrency
+- Processes
+- Threads
+- Multithreading
+- Multiprocessing
+- Async programming
+- Event loops
+- Futures
+- Promises
+- Coroutines
+- Tasks
+
+## 29. Synchronization
+- Mutex
+- Lock
+- Read/write lock
+- Semaphore
+- Monitor
+- Condition variable
+- Barrier
+- Atomic operations
+- Memory barriers
+
+## 30. Concurrency Problems
+- Race conditions
+- Deadlocks
+- Livelocks
+- Starvation
+- Priority inversion
+- Data races
+- Thread safety
+- Reentrancy
+
+## 31. Parallel Computing
+- Data parallelism
+- Task parallelism
+- SIMD
+- Multicore processing
+- GPU computing
+- Distributed parallelism
+- Parallel algorithms
+- MapReduce
+
+## 32. Communication Models
+- Shared memory
+- Message passing
+- Channels
+- Actor model
+- Producer-consumer
+- Publish-subscribe
+
+---
+
+# PART XI — SOFTWARE DESIGN
+
+## 40. Design Principles
+- DRY
+- KISS
+- YAGNI
+- Separation of concerns
+- Single responsibility
+- Encapsulation
+- High cohesion
+- Low coupling
+- Information hiding
+- Principle of least knowledge
+- Composition over inheritance
+
+## 41. Design Patterns — Creational
+- Singleton
+- Factory
+- Abstract Factory
+- Builder
+- Prototype
+
+## 42. Design Patterns — Structural
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+## 43. Design Patterns — Behavioral
+- Chain of Responsibility
+- Command
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor
+
+## 44. Dependency & Architecture Patterns
+- Dependency injection
+- Inversion of control
+- Repository pattern
+- Unit of work
+- Service layer
+- DTO
+- MVC
+- MVP
+- MVVM
+- Layered architecture
+- Hexagonal architecture
+- Clean architecture
+- Onion architecture
+
+---
+
+# PART XII — SOFTWARE ARCHITECTURE
+
+## 45. Application Architecture
+- Monolith
+- Modular monolith
+- Microservices
+- Service-oriented architecture
+- Serverless
+- Event-driven architecture
+- Component architecture
+- Plugin architecture
+- Distributed architecture
+
+## 46. Architecture Concepts
+- Coupling
+- Cohesion
+- Modularity
+- Boundaries
+- Abstraction
+- Dependency direction
+- Scalability
+- Availability
+- Reliability
+- Maintainability
+- Extensibility
+- Resilience
+
+## 47. Domain-Driven Design
+- Domain
+- Subdomain
+- Bounded context
+- Entity
+- Value object
+- Aggregate
+- Aggregate root
+- Repository
+- Domain service
+- Domain event
+- Ubiquitous language
+- Context mapping
+- CQRS
+- Event sourcing
+
+---
+
+# PART XXX — AI & MACHINE LEARNING PROGRAMMING
+
+## 106. AI Fundamentals
+- Artificial intelligence
+- Search
+- Knowledge representation
+- Planning
+- Reasoning
+- Decision systems
+- Expert systems
+
+## 107. Machine Learning
+- Supervised learning
+- Unsupervised learning
+- Reinforcement learning
+- Classification
+- Regression
+- Clustering
+- Feature engineering
+- Model training
+- Validation
+- Testing
+- Overfitting
+- Underfitting
+- Regularization
+
+## 108. Deep Learning
+- Neural networks
+- CNNs
+- RNNs
+- LSTMs
+- Transformers
+- Attention
+- Embeddings
+- Autoencoders
+- Generative models
+
+## 109. AI Engineering
+- Model inference
+- Model serving
+- Vector databases
+- Retrieval
+- RAG
+- Prompt engineering
+- Evaluation
+- Fine-tuning
+- Quantization
+- GPU acceleration
+- AI pipelines
+
+---
+
+# PART XXXI — DATA ENGINEERING
+
+## 110. Data Processing
+- ETL
+- ELT
+- Data pipelines
+- Batch processing
+- Stream processing
+- Data transformation
+- Data validation
+- Data quality
+
+## 111. Big Data
+- Distributed storage
+- Distributed processing
+- MapReduce
+- Data lakes
+- Data warehouses
+- Lakehouses
+- Columnar storage
+- Data partitioning
+
+## 112. Streaming
+- Event streams
+- Kafka
+- Stream processors
+- Windowing
+- Event time
+- Processing time
+- Watermarks
+- Exactly-once processing
+
+---
+
+# PART XXXII — NUMERICAL & SCIENTIFIC PROGRAMMING
+
+## 113. Numerical Computing
+- Floating-point errors
+- Numerical stability
+- Precision
+- Approximation
+- Interpolation
+- Numerical integration
+- Numerical differentiation
+- Root finding
+- Linear algebra
+
+## 114. Scientific Algorithms
+- Matrix operations
+- Vector operations
+- Differential equations
+- Numerical optimization
+- Simulation
+- Monte Carlo methods
+- Statistical computing
+
+---
+
+# PART XXXIII — MOBILE & CROSS-PLATFORM PROGRAMMING
+
+## 115. Mobile Concepts
+- Mobile UI
+- Touch input
+- Gestures
+- Navigation
+- Lifecycle
+- Notifications
+- Permissions
+- Sensors
+- Camera
+- Location
+- Offline storage
+- Background tasks
+
+## 116. Cross-Platform
+- Shared codebases
+- Native bridges
+- Platform APIs
+- Cross-platform UI
+- Mobile deployment
+- App signing
+- App stores
+
+---
+
+# PART XXXVI — INTEROPERABILITY & INTEGRATION
+
+## 124. Interoperability
+- APIs
+- SDKs
+- Libraries
+- Plugins
+- Modules
+- Extensions
+- FFI
+- ABI
+- Serialization
+- Deserialization
+
+## 125. Data Formats
+- JSON
+- XML
+- YAML
+- CSV
+- Protocol Buffers
+- MessagePack
+- Avro
+- Binary formats
+
+## 126. Integration
+- Webhooks
+- APIs
+- Message queues
+- Event buses
+- File exchange
+- Database integration
+- Service integration
+
+---
+
+# PART XXXVII — ADVANCED PROGRAMMING TECHNIQUES
+
+## 127. Metaprogramming
+- Reflection
+- Introspection
+- Macros
+- Code generation
+- Runtime code generation
+- Compile-time computation
+
+## 128. Reactive Programming
+- Observables
+- Streams
+- Subscribers
+- Operators
+- Backpressure
+- Reactive pipelines
+
+## 129. Event-Driven Programming
+- Events
+- Event handlers
+- Event buses
+- Event queues
+- Event sourcing
+- Domain events
+
+## 130. Plugin & Extension Systems
+- Plugin architecture
+- Dynamic loading
+- Registries
+- Hooks
+- Middleware
+- Extensions
+- Dependency injection
+
+---
+
+# PART XXXVIII — FORMAL METHODS & CORRECTNESS
+
+## 131. Formal Reasoning
+- Preconditions
+- Postconditions
+- Invariants
+- Hoare logic
+- Formal specifications
+- Proofs
+- Model checking
+- Theorem proving
+
+## 132. Program Verification
+- Static verification
+- Runtime verification
+- Symbolic execution
+- Formal testing
+- Property verification
+- Safety properties
+- Liveness properties
+
+---
+
+# PART XXXIX — SPECIALIZED PROGRAMMING DOMAINS
+
+## 133. Systems Programming
+- Operating systems
+- Kernels
+- Drivers
+- Networking
+- Memory
+- Processes
+- Low-level APIs
+
+## 134. Robotics
+- Sensors
+- Actuators
+- Control systems
+- Localization
+- Mapping
+- SLAM
+- Motion planning
+- Robot communication
+
+## 135. IoT
+- Devices
+- Sensors
+- Gateways
+- Edge computing
+- Device management
+- Telemetry
+- MQTT
+- Device security
+
+## 136. Blockchain Programming
+- Distributed ledgers
+- Smart contracts
+- Consensus
+- Cryptographic signatures
+- Wallets
+- Transactions
+- Tokens
+- Decentralized applications
+
+## 137. Automation & Scripting
+- Shell scripting
+- Task automation
+- File automation
+- Web automation
+- System administration
+- Build automation
+- Data automation
+
+---
+
+# PART XL — USER EXPERIENCE & APPLICATION ENGINEERING
+
+## 138. UI Programming
+- Components
+- Layout
+- State
+- Events
+- Forms
+- Validation
+- Navigation
+- Themes
+- Animations
+
+## 139. Accessibility
+- Keyboard navigation
+- Screen readers
+- Semantic markup
+- Contrast
+- Focus management
+- Accessible forms
+- Assistive technologies
+
+## 140. Internationalization
+- Localization
+- Translation
+- Unicode
+- Character encoding
+- Date/time localization
+- Number formatting
+- Currency formatting
+- Right-to-left interfaces
+
+---
+
+# PART XLI — PERFORMANCE ENGINEERING
+
+## 141. Performance Analysis
+- Profiling
+- Benchmarking
+- CPU profiling
+- Memory profiling
+- I/O profiling
+- Network profiling
+- Flame graphs
+
+## 142. Optimization
+- Algorithm optimization
+- Memory optimization
+- Cache optimization
+- Database optimization
+- Query optimization
+- Network optimization
+- Parallelization
+- Vectorization
+- Lazy loading
+- Batching
+
+---
+
+# PART XLII — SOFTWARE RELIABILITY
+
+## 143. Reliability Engineering
+- Fault tolerance
+- Redundancy
+- Failover
+- Recovery
+- Health checks
+- Graceful shutdown
+- Graceful degradation
+
+## 144. Disaster Recovery
+- Backups
+- Replication
+- Recovery plans
+- RPO
+- RTO
+- Disaster testing
+- Business continuity
+
+---
+
+# PART XLIII — PACKAGE, LIBRARY & FRAMEWORK ENGINEERING
+
+## 145. Library Design
+- Public APIs
+- Internal APIs
+- Versioning
+- Compatibility
+- Dependency management
+- Documentation
+- Distribution
+
+## 146. Framework Design
+- Extension points
+- Lifecycle hooks
+- Dependency injection
+- Middleware
+- Routing
+- Plugins
+- Configuration
+- Conventions
+
+---
+
+# PART XLIV — LANGUAGE-SPECIFIC CONCEPTS
+
+## 147. Python
+- Decorators
+- Generators
+- Iterators
+- Context managers
+- Metaclasses
+- GIL
+- Asyncio
+- Type hints
+- Descriptors
+- Dunder methods
+
+## 148. C / C++
+- Pointers
+- Manual memory
+- Structs
+- Templates
+- RAII
+- Move semantics
+- Operator overloading
+- Multiple inheritance
+- STL
+- Undefined behavior
+- Compilation units
+
+## 149. PHP
+- Namespaces
+- Traits
+- Interfaces
+- Abstract classes
+- Magic methods
+- Composer
+- PSR standards
+- Attributes
+- Generators
+- Fibers
+- PDO
+- Reflection
+
+## 150. JavaScript / TypeScript
+- Prototypes
+- Closures
+- Hoisting
+- Event loop
+- Promises
+- Async/await
+- Modules
+- DOM
+- Generators
+- Iterators
+- TypeScript types
+- Generics
+- Decorators
+
+## 151. Java / JVM
+- JVM
+- Bytecode
+- Generics
+- Annotations
+- Reflection
+- Class loading
+- Garbage collection
+- Threads
+- Streams
+
+## 152. Go
+- Goroutines
+- Channels
+- Interfaces
+- Packages
+- Modules
+- Context
+- Error handling
+- Concurrency
+
+## 153. Rust
+- Ownership
+- Borrowing
+- Lifetimes
+- Traits
+- Pattern matching
+- Enums
+- Result
+- Option
+- Unsafe Rust
+- Zero-cost abstractions
+
+---
+
+# PART XLV — CORE COMPUTER SCIENCE FOUNDATION
+
+## 154. Discrete Mathematics
+- Sets
+- Relations
+- Functions
+- Logic
+- Proofs
+- Graph theory
+- Combinatorics
+- Recurrence relations
+
+## 155. Mathematics for Programming
+- Algebra
+- Linear algebra
+- Probability
+- Statistics
+- Calculus
+- Numerical methods
+
+## 156. Information Theory
+- Information
+- Entropy
+- Compression
+- Coding
+- Channel capacity
+
+## 157. Logic
+- Boolean logic
+- Predicate logic
+- Propositional logic
+- Truth tables
+- Logical inference
+
+---
+
+# PART XLVI — PROFESSIONAL DEPLOYMENT & OPERATIONS
+
+## 158. Production Engineering
+- Production environments
+- Deployment
+- Configuration
+- Secrets
+- Monitoring
+- Alerting
+- Incident response
+- Rollbacks
+
+## 159. Incident Management
+- Incident detection
+- Incident classification
+- Root cause analysis
+- Postmortems
+- Runbooks
+- On-call systems
+
+## 160. Release Engineering
+- Release pipelines
+- Versioning
+- Artifacts
+- Release notes
+- Deployment automation
+- Rollback strategies
+
+---
+
+# PART XLVII — ARCHITECTURE AT SCALE
+
+## 161. Large-Scale Systems
+- Horizontal scaling
+- Service decomposition
+- Distributed databases
+- Global replication
+- Multi-region systems
+- Geo-routing
+- CDN architecture
+- Edge computing
+
+## 162. Global Systems
+- Multi-region deployment
+- Data residency
+- Global load balancing
+- Regional failover
+- Disaster recovery
+- Cross-region replication
+
+---
+
+# PART XLVIII — ADVANCED SECURITY ENGINEERING
+
+## 163. Application Threats
+- Injection
+- Authentication attacks
+- Authorization attacks
+- Session attacks
+- Deserialization attacks
+- Supply-chain attacks
+- Dependency vulnerabilities
+
+## 164. Infrastructure Security
+- Network segmentation
+- Firewalls
+- IAM
+- Secrets management
+- Container security
+- Cloud security
+- Endpoint security
+
+## 165. Security Engineering
+- Threat modeling
+- Security architecture
+- Secure SDLC
+- Penetration testing
+- Vulnerability scanning
+- Security monitoring
+- Incident response
+
+---
+
+# PART XLIX — SOFTWARE ECOSYSTEM
+
+## 166. Development Tools
+- Editors
+- IDEs
+- Debuggers
+- Profilers
+- Linters
+- Formatters
+- REPLs
+- Build tools
+
+## 167. Debugging
+- Breakpoints
+- Stepping
+- Watch expressions
+- Stack traces
+- Core dumps
+- Memory debugging
+- Remote debugging
+- Production debugging
+
+## 168. Developer Tooling
+- CLI tools
+- Code generators
+- Scaffolding
+- Package managers
+- Documentation generators
+- Static analyzers
+
+---
+
+# PART L — MASTER CONCEPTS THAT CONNECT EVERYTHING
+
+## 169. Abstraction
+- Data abstraction
+- Control abstraction
+- API abstraction
+- Architectural abstraction
+- Layering
+
+## 170. State
+- Mutable state
+- Immutable state
+- Global state
+- Local state
+- Distributed state
+- State machines
+- State synchronization
+
+## 171. Data Flow
+- Input
+- Transformation
+- Processing
+- Storage
+- Output
+- Streaming
+- Event flow
+- Message flow
+
+## 172. Control Flow
+- Sequential flow
+- Conditional flow
+- Iterative flow
+- Recursive flow
+- Concurrent flow
+- Event-driven flow
+- Distributed flow
+
+## 173. Dependency
+- Direct dependency
+- Transitive dependency
+- Runtime dependency
+- Build dependency
+- Dependency injection
+- Dependency inversion
+- Dependency management
+
+## 174. Communication
+- Function calls
+- IPC
+- Sockets
+- APIs
+- RPC
+- Messaging
+- Events
+- Distributed communication
+
+## 175. Persistence
+- Memory
+- Files
+- Databases
+- Object storage
+- Caches
+- Distributed storage
+
+## 176. Execution
+- Source code
+- Compilation
+- Linking
+- Loading
+- Runtime
+- Processes
+- Threads
+- CPU
+- GPU
+- Distributed execution
+
+---
+
+# PART LI — TEXT PROCESSING & PATTERN MATCHING
+
+## 177. Regular Expressions & Formal Languages
+- Regular expressions
+- Regex syntax
+- Greedy matching
+- Lazy matching
+- Backreferences
+- Capture groups
+- Finite state automata
+- DFA (Deterministic Finite Automaton)
+- NFA (Nondeterministic Finite Automaton)
+- String interpolation
+- Templating engines
+
+---
+
+# PART LII — WEBASSEMBLY & EMERGING RUNTIME TARGETS
+
+## 178. WebAssembly
+- WebAssembly (Wasm)
+- Wasm modules
+- Wasm runtime
+- Wasm compilation targets
+- Wasm sandboxing
+
+---
+
+# PART LIII — SOFTWARE LICENSING, PRIVACY & ETHICS
+
+## 179. Licensing & Legal Concepts
+- Software licensing
+- MIT license
+- GPL
+- Apache license
+- Proprietary licensing
+- Vendor lock-in considerations
+
+## 180. Privacy & Data Ethics
+- Privacy-by-design
+- Data protection principles
+- GDPR
+- Consent management
+- Data minimization
+
+## 181. Open Source & Community Practices
+- Open-source contribution etiquette
+- Contribution guidelines
+- Community governance
+- Code of conduct
+
+## 182. Ethics in Algorithm Design
+- Algorithmic bias
+- Fairness
+- Ethical AI
+- Responsible AI design
+- Accessibility compliance standards
+
+---
+
+# PART LIV — COMPILER & LOW-LEVEL CONCEPTS (EXTENDED)
+
+## 183. Additional Compilation Strategies
+- Ahead-of-Time (AOT) compilation
+- Transpilers
+- Transpilation
+
+## 184. Additional Low-Level Data Representation
+- Memory alignment
+- Memory padding
+
+---
+
+# PART LV — DISTRIBUTED SYSTEMS (EXTENDED)
+
+## 185. Distributed Time & Event Ordering
+- Vector clocks
+- Logical clocks
+- Lamport timestamps
+
+---
+
+# PART LVI — WEB PLATFORM (EXTENDED)
+
+## 186. Web Security & Rendering
+- CORS (Cross-Origin Resource Sharing)
+- Browser rendering pipeline
+- Layout (rendering)
+- Paint
+- Composite
+
+---
+
+# PART LVII — DEVELOPER TOOLING (EXTENDED)
+
+## 187. Advanced Debugging & Repo Tooling
+- Sanitizers (memory, thread, address)
+- Monorepos vs. polyrepos
+- Chaos engineering
+
+---
+
+# PART LVIII — SMALL NAMED ADDITIONS
+
+## 188. Specific Technologies & Micro-Concepts
+- Redis (named in-memory cache)
+- Certificate Authorities (CAs)
+- CPU-bound tasks
+- I/O-bound tasks
+- stdin
+- stdout
+- stderr
+
+=====================================================
+
+# MASTER COVERAGE MAP
+
+The complete taxonomy now spans:
+
+1. Programming Fundamentals
+2. Data Types
+3. Type Systems
+4. Operators & Expressions
+5. Control Flow
+6. Functions
+7. Data Structures
+8. Algorithms
+9. Complexity Theory
+10. Programming Paradigms
+11. Memory Management
+12. Resource Management
+13. Concurrency
+14. Parallelism
+15. Error Handling
+16. Testing
+17. Software Design
+18. Design Patterns
+19. Software Architecture
+20. Domain-Driven Design
+21. Databases
+22. SQL
+23. NoSQL
+24. Networking
+25. Web Programming
+26. APIs
+27. Operating Systems
+28. Computer Architecture
+29. Compilers
+30. Programming Language Theory
+31. Metaprogramming
+32. Version Control
+33. Security
+34. Distributed Systems
+35. System Design
+36. Build Systems
+37. Package Management
+38. CI/CD
+39. DevOps
+40. Cloud Computing
+41. Observability
+42. Embedded Systems
+43. Real-Time Systems
+44. Computer Graphics
+45. Game Programming
+46. AI
+47. Machine Learning
+48. Data Engineering
+49. Numerical Computing
+50. Mobile Programming
+51. Software Engineering
+52. Professional Development
+53. Interoperability
+54. Advanced Programming Techniques
+55. Formal Methods
+56. Systems Programming
+57. Robotics
+58. IoT
+59. Blockchain
+60. Automation
+61. UI Engineering
+62. Accessibility
+63. Internationalization
+64. Performance Engineering
+65. Reliability Engineering
+66. Library Engineering
+67. Framework Engineering
+68. Language-Specific Programming
+69. Mathematics & Computer Science Foundations
+70. Production Engineering
+71. Large-Scale Architecture
+72. Advanced Security Engineering
+73. Developer Tooling
+74. Cross-Domain Programming Concepts
+75. Text Processing & Regular Languages
+76. WebAssembly
+77. Software Licensing
+78. Privacy & Data Ethics
+79. Open Source Practices
+80. Ethics in Algorithm Design
+81. Extended Compiler Strategies
+82. Extended Low-Level Data Representation
+83. Distributed Time & Ordering
+84. Extended Web Platform Concepts
+85. Extended Developer Tooling
+86. Named Technologies & Micro-Concepts
+
+=====================================================
+
+Absolute basics
+
+Programming Fundamentals
+Data Types
+Operators & Expressions
+Control Flow
+Functions
+Version Control
+
+Core building blocks
+7. Data Structures
+8. Type Systems
+9. Error Handling
+10. Testing
+11. Text Processing & Regular Languages
+12. Algorithms
+13. Complexity Theory
+
+Broader software skills
+14. Software Design
+15. Design Patterns
+16. Programming Paradigms
+17. APIs
+18. Databases
+19. SQL
+20. NoSQL
+21. Web Programming
+22. Networking
+23. Package Management
+24. Build Systems
+
+Systems & architecture
+25. Operating Systems
+26. Computer Architecture
+27. Memory Management
+28. Resource Management
+29. Concurrency
+30. Parallelism
+31. Software Architecture
+32. Domain-Driven Design
+33. System Design
+34. Security
+35. Accessibility
+36. Internationalization
+37. UI Engineering
+38. Mobile Programming
+
+Professional / production practice
+39. Software Engineering
+40. Professional Development
+41. CI/CD
+42. DevOps
+43. Cloud Computing
+44. Observability
+45. Production Engineering
+46. Reliability Engineering
+47. Performance Engineering
+48. Developer Tooling
+
+Advanced CS & specialized domains
+49. Compilers
+50. Programming Language Theory
+51. Metaprogramming
+52. Systems Programming
+53. Distributed Systems
+54. Large-Scale Architecture
+55. Distributed Time & Ordering
+56. Formal Methods
+57. Numerical Computing
+58. Computer Graphics
+59. Game Programming
+60. Embedded Systems
+61. Real-Time Systems
+62. Robotics
+63. IoT
+64. WebAssembly
+
+Data & AI
+65. Data Engineering
+66. AI
+67. Machine Learning
+
+Cutting-edge, niche & meta topics
+68. Blockchain
+69. Automation
+70. Advanced Security Engineering
+71. Advanced Programming Techniques
+72. Library Engineering
+73. Framework Engineering
+74. Language-Specific Programming
+75. Interoperability
+76. Cross-Domain Programming Concepts
+77. Mathematics & Computer Science Foundations
+78. Extended Compiler Strategies
+79. Extended Low-Level Data Representation
+80. Extended Web Platform Concepts
+81. Extended Developer Tooling
+82. Named Technologies & Micro-Concepts
+83. Software Licensing
+84. Privacy & Data Ethics
+85. Open Source Practices
+86. Ethics in Algorithm Design
+
+=====================================================
+
+# FINAL SCOPE
+
+- Variables and constants
+- Data types: integer, float, double, boolean, char, string, byte
+- Type systems: static, dynamic, strong, weak, duck typing
+- Type inference
+- Type casting / type conversion (implicit & explicit)
+- Operators: arithmetic, relational, logical, bitwise, assignment, ternary
+- Operator precedence and associativity
+- Comments and documentation syntax
+- Input/output basics (stdin, stdout, stderr)
+- Expressions vs statements
+- Naming conventions (camelCase, snake_case, PascalCase)
+- if / else / else-if
+- switch / match / case statements
+- for loops
+- while loops
+- do-while loops
+- break, continue, goto (where applicable)
+- Nested loops and labeled loops
+- Short-circuit evaluation
+- Guard clauses
+- Recursion (base case, recursive case, tail recursion)
+- Iteration vs recursion trade-offs
+- Function declaration/definition vs invocation
+- Parameters vs arguments
+- Default parameters
+- Variadic functions (*args, varargs, spread)
+- Return values, multiple return values
+- Pass by value vs pass by reference vs pass by pointer
+- Scope: local, global, block, function
+- Closures
+- Higher-order functions
+- Pure functions vs impure functions
+- First-class functions
+- Anonymous functions / lambdas
+- Recursion depth and stack overflow
+- Function overloading
+- Function overriding
+- Currying and partial application
+- Memoization
+- Arrays (static, dynamic)
+- Lists (singly linked, doubly linked, circular)
+- Stacks (LIFO)
+- Queues (FIFO), deques, priority queues
+- Hash tables / hash maps / dictionaries
+- Sets
+- Trees: binary trees, binary search trees, AVL trees, red-black trees
+- Heaps (min-heap, max-heap)
+- Tries (prefix trees)
+- Graphs: directed, undirected, weighted, adjacency list/matrix
+- Matrices / 2D arrays
+- Tuples / records / structs
+- Skip lists
+- B-trees / B+ trees (databases)
+- Union-Find / Disjoint Set
+- Sorting: bubble, selection, insertion, merge, quick, heap, radix, counting
+- Searching: linear search, binary search, ternary search
+- Recursion & backtracking
+- Divide and conquer
+- Dynamic programming (memoization, tabulation)
+- Greedy algorithms
+- Graph traversal: BFS, DFS
+- Shortest path: Dijkstra, Bellman-Ford, Floyd-Warshall, A*
+- Minimum spanning tree: Kruskal, Prim
+- Topological sorting
+- Two-pointer technique
+- Sliding window technique
+- Bit manipulation algorithms
+- String algorithms: KMP, Rabin-Karp, Z-algorithm, Trie-based search
+- Hashing algorithms and collision handling
+- Big-O notation
+- Big-Theta and Big-Omega notation
+- Time complexity analysis
+- Space complexity analysis
+- Amortized analysis
+- Best, worst, and average case analysis
+- Algorithmic trade-offs (time vs space)
+- Cache locality and performance implications
+- Profiling and benchmarking
+- Classes and objects
+- Encapsulation
+- Abstraction
+- Inheritance (single, multiple, multilevel, hierarchical)
+- Polymorphism (compile-time & runtime)
+- Interfaces and abstract classes
+- Constructors and destructors
+- Access modifiers (public, private, protected)
+- Static vs instance members
+- Method overloading vs overriding
+- Composition vs inheritance
+- Mixins and traits
+- Object lifecycle and garbage collection
+- SOLID principles:
+  - Single Responsibility
+  - Open/Closed
+  - Liskov Substitution
+  - Interface Segregation
+  - Dependency Inversion
+- Pure functions and immutability
+- First-class and higher-order functions
+- Map, filter, reduce
+- Function composition
+- Recursion over iteration
+- Lazy evaluation
+- Monads and functors (advanced)
+- Referential transparency
+- Avoiding side effects
+- Stack vs heap memory
+- Manual memory management (malloc/free, new/delete)
+- Garbage collection (mark-sweep, reference counting, generational GC)
+- Memory leaks and how to prevent them
+- Pointers and references
+- Smart pointers (unique, shared, weak)
+- Dangling pointers, wild pointers
+- Memory fragmentation
+- Buffer overflows
+- RAII (Resource Acquisition Is Initialization)
+- Move semantics and ownership models
+- Processes vs threads
+- Multithreading
+- Multiprocessing
+- Race conditions
+- Deadlocks, livelocks, starvation
+- Mutexes, semaphores, locks
+- Atomic operations
+- Thread pools
+- Async / await, event loops
+- Coroutines
+- Producer-consumer problem
+- Synchronization primitives
+- Parallel algorithms
+- Message passing vs shared memory
+- CPU-bound vs I/O-bound tasks
+- Exceptions and exception handling (try/catch/finally)
+- Custom exceptions
+- Error codes vs exceptions
+- Defensive programming
+- Assertions
+- Input validation
+- Fail-fast vs fail-safe design
+- Logging strategies
+- Retry logic and fallback mechanisms
+- Unit testing
+- Integration testing
+- End-to-end (E2E) testing
+- Test-driven development (TDD)
+- Behavior-driven development (BDD)
+- Mocking, stubbing, and spies
+- Code coverage
+- Regression testing
+- Load and stress testing
+- Property-based testing
+- DRY (Don't Repeat Yourself)
+- KISS (Keep It Simple, Stupid)
+- YAGNI (You Aren't Gonna Need It)
+- Separation of concerns
+- Creational patterns: Singleton, Factory, Builder, Prototype
+- Structural patterns: Adapter, Decorator, Facade, Proxy, Composite
+- Behavioral patterns: Observer, Strategy, Command, Iterator, State
+- Dependency injection
+- Inversion of control (IoC)
+- Architectural patterns: MVC, MVVM, layered architecture, microservices
+- Relational databases (SQL)
+- Normalization / denormalization
+- Primary keys, foreign keys, indexes
+- Joins (inner, outer, left, right, cross)
+- Transactions and ACID properties
+- NoSQL databases (document, key-value, column, graph)
+- CAP theorem
+- Query optimization
+- ORMs (Object-Relational Mapping)
+- Caching strategies (write-through, write-back, cache invalidation)
+- Database sharding and replication
+- TCP/IP model, OSI model
+- HTTP/HTTPS methods and status codes
+- REST API design principles
+- GraphQL basics
+- WebSockets
+- DNS resolution
+- Sockets programming
+- Client-server architecture
+- Authentication vs authorization
+- Sessions, cookies, tokens (JWT, OAuth)
+- CORS
+- Load balancing
+- Processes and process states
+- Threads and scheduling
+- Context switching
+- Virtual memory and paging
+- File systems and permissions
+- System calls
+- Interrupts
+- Inter-process communication (IPC)
+- Deadlock prevention/avoidance
+- Git basics: commit, push, pull, clone
+- Branching and merging
+- Rebasing vs merging
+- Resolving merge conflicts
+- Pull requests and code reviews
+- Git workflows (GitFlow, trunk-based development)
+- Semantic versioning
+- Input sanitization and validation
+- SQL injection
+- Cross-site scripting (XSS)
+- Cross-site request forgery (CSRF)
+- Encryption (symmetric vs asymmetric)
+- Hashing vs encryption
+- Secure password storage (salting, bcrypt)
+- Principle of least privilege
+- Secrets management
+- Scalability (vertical vs horizontal)
+- Load balancing
+- Caching layers (CDN, Redis, in-memory)
+- Database sharding and partitioning
+- Microservices vs monolithic architecture
+- Message queues (Kafka, RabbitMQ)
+- Event-driven architecture
+- API gateways
+- Rate limiting
+- Consistency models (strong, eventual)
+- Fault tolerance and redundancy
+- Python: decorators, generators, context managers, metaclasses, GIL, async/await
+- C++: templates, RAII, move semantics, operator overloading, multiple inheritance, pointers/references
+- PHP: traits, magic methods, namespaces, PSR standards
+- JavaScript: prototypes, event loop, hoisting, closures, promises
+- Java: JVM internals, generics, annotations, reflection
+- Go: goroutines, channels, interfaces
+- Rust: ownership, borrowing, lifetimes
+- Agile and Scrum methodology
+- Code readability and maintainability
+- Technical debt
+- Refactoring techniques
+- Documentation best practices
+- Code review etiquette
+- Continuous Integration / Continuous Deployment (CI/CD)
+- DevOps basics
+- Containerization (Docker) and orchestration (Kubernetes)
+- Lexical analysis (tokenizing)
+- Parsing: recursive descent, LL, LR, parser combinators
+- Abstract Syntax Trees (ASTs)
+- Semantic analysis
+- Intermediate representations (IR)
+- Bytecode and virtual machines
+- Just-In-Time (JIT) compilation
+- Ahead-of-Time (AOT) compilation
+- Static vs dynamic linking
+- Compiler optimizations (constant folding, dead code elimination, inlining)
+- Interpreters vs compilers vs transpilers
+- Symbol tables and scope resolution
+- Code generation
+- Generics / templates (as a general concept)
+- Algebraic data types (sum types, product types)
+- Variance: covariance, contravariance, invariance
+- Pattern matching
+- Structural vs nominal typing
+- Type inference algorithms (e.g., Hindley-Milner, conceptual level)
+- Null safety / optional types (Option, Maybe)
+- Dependent types (advanced)
+- Type erasure
+- Existential types (advanced)
+- Imperative vs declarative programming
+- Procedural programming
+- Logic programming (Prolog-style)
+- Reactive programming (observables, streams)
+- Event-driven programming (as a paradigm, not just OS interrupts)
+- Data-oriented programming
+- Aspect-oriented programming
+- Metaprogramming and reflection
+- Domain-specific languages (DSLs)
+- Assembly language basics
+- CPU cache hierarchy (L1, L2, L3) and cache misses
+- SIMD (Single Instruction, Multiple Data)
+- Branch prediction and pipelining
+- Endianness (big-endian vs little-endian)
+- Registers and instruction sets (RISC vs CISC)
+- Memory alignment and padding
+- Bit-level data representation (IEEE 754 floating point, two's complement)
+- Consensus algorithms: Raft, Paxos
+- Vector clocks and logical clocks
+- Distributed transactions (2-phase commit, saga pattern)
+- Eventual consistency mechanics
+- Idempotency and exactly-once semantics
+- Leader election
+- Gossip protocols
+- Distributed locking
+- Partition tolerance strategies
+- Service discovery
+- JSON, XML, YAML
+- Binary formats: Protocol Buffers, Avro, MessagePack, Thrift
+- Schema evolution and backward/forward compatibility
+- Marshalling / unmarshalling
+- Data compression basics (lossless vs lossy)
+- Regular expressions (syntax, greedy vs lazy matching, backreferences)
+- Finite state automata (DFA, NFA)
+- Parsing structured text (CSV, INI, config formats)
+- String interpolation and templating engines
+- Tokenization for text/NLP pipelines
+- Debuggers (breakpoints, watch variables, step in/over/out)
+- Static analysis tools and linters
+- Profilers (CPU, memory, flame graphs)
+- Sanitizers (memory, thread, address)
+- REPL-driven development
+- IDE tooling (autocomplete, refactoring tools, go-to-definition)
+- Build tools (Make, Bazel, Gradle, MSBuild, etc. — conceptually)
+- Dependency resolution and version conflicts
+- Package managers (npm, pip, cargo, etc. — conceptually)
+- Monorepos vs polyrepos
+- Compilation units and linking
+- Reproducible builds
+- Lockfiles
+- Metrics and dashboards
+- Distributed tracing
+- Application Performance Monitoring (APM)
+- Alerting and on-call practices
+- Structured logging
+- Health checks and readiness/liveness probes
+- Feature flags and canary releases
+- Chaos engineering
+- Public Key Infrastructure (PKI)
+- Digital signatures
+- Certificates and certificate authorities (CAs)
+- Key exchange protocols (Diffie-Hellman)
+- Hash-based message authentication (HMAC)
+- TLS/SSL handshake process
+- Zero-knowledge proofs (advanced, conceptual)
+- RPC and gRPC
+- API versioning strategies
+- Idempotency keys
+- Webhooks
+- Rate limiting strategies (token bucket, leaky bucket)
+- API documentation standards (OpenAPI/Swagger)
+- Backward-compatible API evolution
+- DOM and virtual DOM
+- Browser rendering pipeline (layout, paint, composite)
+- CSS layout models (box model, flexbox, grid)
+- State management patterns (unidirectional data flow)
+- Accessibility (a11y) principles
+- Responsive design principles
+- Component-based architecture
+- Mobile development concepts (lifecycle, native vs cross-platform)
+- Embedded / real-time systems (interrupts, RTOS, hard vs soft real-time)
+- Game development (game loop, physics/collision basics, frame timing)
+- Machine learning fundamentals (tensors, training loops, backpropagation, overfitting)
+- WebAssembly (Wasm) basics
+- Data engineering pipelines (ETL/ELT concepts)
+- Software licensing (MIT, GPL, Apache, proprietary)
+- Privacy-by-design and data protection principles (e.g., GDPR concepts)
+- Open-source contribution etiquette
+- Vendor lock-in considerations
+- Accessibility compliance standards
+- Ethical considerations in algorithm design (bias, fairness)
+
+=====================================================
